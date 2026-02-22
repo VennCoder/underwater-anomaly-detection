@@ -1,8 +1,0 @@
-ultralytics
-streamlit
-opencv-python
-pillow
-reportlab
-numpy
-torch
-torchvision
