@@ -2,6 +2,8 @@
 
 AI-powered subsea inspection tool for ROV/AUV operators built with YOLOv12 and Streamlit.
 
+**🔗 Live Demo → [underwater-anomaly-detection.streamlit.app](https://underwater-anomaly-detection.streamlit.app)**
+
 ## Features
 - Upload image or video for detection
 - Detects 5 classes: Corrosion, Wreckage, Marine Growth, Trash, Pipeline
